@@ -17,7 +17,7 @@ Project building from "Rocktseat" classes.
 
 - keyFrames
 - transitions
-- scripts
+- scripts(functions, events, constant, variables, window, if, else)
 
 # Contact
 
